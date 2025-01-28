@@ -1,4 +1,4 @@
-## 0.0.1
+## 1.0.0
 
 **Message Sending**: Easily send messages to the DeepSeek service and handle responses.
 
