@@ -1,1 +1,1 @@
-enum DeekSeekModels { chat, coder }
+enum DeekSeekModels { chat, coder, reasoner}
