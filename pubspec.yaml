@@ -1,6 +1,6 @@
 name: deepseek_ai_flutter
-description: "This is fork from the deepseek_client.A Dart library for DeepSeek API interaction, facilitating message exchange and response processing."
-version: 0.0.1
+description: "This is fork from the deepseek_client. A Dart library for DeepSeek API interaction, facilitating message exchange and response processing."
+version: 1.0.0
 
 environment:
   sdk: '>=3.3.4 <4.0.0'

@@ -1,4 +1,4 @@
-import 'package:deepseek/deepseek_client.dart';
+import 'package:deepseek_ai_flutter/deepseek_client.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 
